@@ -168,15 +168,21 @@ pip install tqdm  # Progreso visual mejorado
 
 
 
-## 🤝 Soporte y Contribuciones
-
-### 📧 Contacto:
-- **Issues:** Crear issue en el repositorio
-- **Email:** constantino.k@neurotry.com o a soporte@neurot.com
-
 ### 🔄 Actualizaciones:
 - **Versión actual:** 1.0
 - **Última actualización:** Junio 2025
+
+---
+
+
+## 🤝 Soporte y Contribuciones
+
+### 📧 Contacto y Sugerencias:
+- **Buzón de sugerencias:** buzon_sugerencias@neurotry.com
+- **Soporte técnico:** soporte@neurotry.com o a constantino.k@neurotry.com
+
+
+
 
 ---
 
